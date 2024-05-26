@@ -1,0 +1,1 @@
+Full Airflow instances running on docker and built through docker-compose.yamlcurl curl-LfO 'https://airflow.apache.org/docs/apache-airflow/2.9.1/docker-compose.yaml'
